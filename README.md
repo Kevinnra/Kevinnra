@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevinnra&hide_title=false&hide_rank=true&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnra&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnra&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" height="190" alt="languages graph"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 
 <h2 align="left">Welcome to my GitHub!</h2>
-<p align="left">I'm Kevin Ramirez, an IT Support Specialist based in Tokyo, focused on building practical cloud, automation, and networking projects while transitioning into cloud engineering. My work reflects my curiosity, learning journey, and commitment to solving real-world problems with code and systems.</p>
+<p align="left">I'm Kevinn Ramirez, an IT Support Specialist based in Tokyo, focused on building practical cloud, automation, and networking projects while transitioning into cloud engineering. My work reflects my curiosity, learning journey, and commitment to solving real-world problems with code and systems.</p>
 
 #### 🔭 I’m currently working on:
 •	Hosting my portfolio on AWS using S3, Route 53, and CloudFront for scalable, low-cost availability  ￼
@@ -57,7 +57,7 @@ www.kevinnramirez.com
 
 <div align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://www.linkedin.com/in//kevinnramirez"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 
 
 ###
