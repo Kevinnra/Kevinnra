@@ -1,63 +1,41 @@
-###
+# Hey there, I'm Kevinn 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinnra&hide_title=false&hide_rank=true&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnra&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" height="190" alt="languages graph"  />
-</div>
+## Cloud Engineer | Building on AWS
 
-###
+I'm a cloud engineer focused on building reliable, scalable infrastructure. Currently creating projects that demonstrate production-ready cloud architecture and automation.
 
-<div align="left">
-  <h3>🛠 Programming Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+### 🚀 What I'm Building
 
-  <h3>☁️ Cloud & DevOps</h3>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonaws logo"  />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+**Current Projects:**
+- 🏗️ **Serverless Task API** - Full-stack serverless app using Lambda, API Gateway, DynamoDB, with Terraform IaC
+- 📊 **Cloud Cost Optimizer** - Python tool analyzing AWS cost reports and suggesting optimizations  
+- 🔐 **Multi-Tier Web App on AWS** - VPC, EC2, RDS, ALB deployment with high availability
 
-  <h3>🖥 Operating Systems & Tools</h3>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows logo"  />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="30" alt="vim logo"  />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-</div>
+**Recently Completed:**
+- ✅ Static website hosting on AWS (S3 + CloudFront + Route 53)
+- ✅ Active Directory automation lab with Python/Freshdesk integration
 
+### 🛠️ Tech Stack
 
-<h2 align="left">Welcome to my GitHub!</h2>
-<p align="left">I'm Kevinn Ramirez, an IT Support Specialist based in Tokyo, focused on building practical cloud, automation, and networking projects while transitioning into cloud engineering. My work reflects my curiosity, learning journey, and commitment to solving real-world problems with code and systems.</p>
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-#### 🔭 I’m currently working on:
-•	Hosting my portfolio on AWS using S3, Route 53, and CloudFront for scalable, low-cost availability  ￼
-•	Built a virtual Active Directory lab in VirtualBox with Freshdesk integration, automating helpdesk workflows via Python and APIs   
+**Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### 🌱 Currently learning:
-•	AWS Certified Cloud Practitioner and CCNA networking certifications—plan to complete both in mid‑2025  ￼
-•	Advanced Python scripting and cloud-native automation techniques
+### 📜 Certifications
 
-#### 🤝 Looking to collaborate on:
-•	IT automation, infrastructure-as-code, or cloud-centric projects that bridge DevOps and support workflows
+- ☁️ AWS Certified Cloud Practitioner (Jan 2026)
+- 🐍 CS50's Introduction to Programming with Python
+- 🌐 CCNA (In Progress - Mar 2026)
 
-#### 🤔 Looking for help with:
-•	Real-world AWS cloud architecture troubleshooting (especially IAM, S3, DNS with Route 53)
+### 📫 Let's Connect
 
-#### 📫 How to reach me:
-- Find my Resume  and projects on my portfolio site: 
-www.kevinnramirez.com
-<br>
-- Or drop me an email:
-
-###
-
-<div align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://www.linkedin.com/in//kevinnramirez"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-
-
-###
+- 💼 Portfolio: [kevinnramirez.com](https://kevinnramirez.com)
+- 🔗 LinkedIn: [linkedin.com/in/kevinnramirez](https://linkedin.com/in/kevinnramirez)
+- 📧 Email: admin@kevinnramirez.com
