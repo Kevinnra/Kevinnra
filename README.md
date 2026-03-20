@@ -1,4 +1,5 @@
 # Hey there, I'm Kevinn 👋
+![AWS Certified](https://img.shields.io/badge/AWS%20CLoud%20Practitioner-Certified-0072B1?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Cloud Engineer | Building on AWS
 
